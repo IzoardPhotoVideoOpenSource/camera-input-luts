@@ -12,7 +12,7 @@ LUTs are named according to the transformation they provide. Names are formed as
 
 {input_format}\_to\_{output_format}\_V{version}.cube
 
-Here, version refers to the version of the LUT, and not any version associated with the the input format. 
+Here, version refers to the version of the LUT, and not any version associated with the input format.
 
 For example, version 1 of the LUT for converting Oppo O-Log to DaVinci Wide Gamut/Intermediate is named
 
@@ -56,7 +56,7 @@ You can find more information about using these LUTs in specific workflows by vi
 
 ## Licence
 
-These LUTs are free to download and use. Please refer to the [LICENSE](LICENSE) file for the applicable permissions and conditions.
+These LUTs are intended to be free to download and use. Please refer to the [LICENSE](LICENSE.md) file for the applicable permissions and conditions.
 
 ## Tutorials and further information
 
@@ -66,8 +66,8 @@ These LUTs accompany the colour grading and video production tutorials published
 
 ## Feedback and problems
 
-If you encounter a apecific problem with a LUT, please open a GitHub Issue in this repository, including the camera or phone you are using, and the name of the LUT.
+If you encounter a specific problem with a LUT, please open a GitHub Issue in this repository, including the camera or phone you are using, and the name of the LUT.
 
 If you have a more general question, please leave a comment on the appropriate video in the [IzoardPhotoVideo on YouTube](https://www.youtube.com/@IzoardPhotoVideo)
 
-Include the camera model, recording profile,
+Include the camera model, and recording profile, for example Oppo Find X9 Pro and O-Log.
