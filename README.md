@@ -54,9 +54,27 @@ You can find more information about using these LUTs in specific workflows by vi
 - LUTs may be appropriate for only one particular colour grading product because of the output format they provide. For example, LUTs that produce DaVinci Wide Gamut/Intermediate are for use in DaVinci Resolve.
 - Final results depend on the recording settings, source footage and the particular colour grading applied.
 
+## Origin and acknowledgements
+
+Some LUTs in this repository were generated from official camera manufacturer colour transformations.
+
+For example, the OPPO O-Log and O-Log 2 input LUTs were generated using the manufacturer's published DCTL transformations to ACES AP0, followed by conversion to DaVinci Wide Gamut / DaVinci Intermediate.
+
+The resulting `.cube` files contain numerical colour-transformation data rather than the original DCTL source code.
+
+The original OPPO technical resources are available from [OPPO O-Log Technical Downloads](https://www.oppo.com/en/o-log-technical-downloads/).
+
+These LUTs are independently prepared by IzoardPhotoVideo and are not official OPPO products.
+
 ## Licence
 
-These LUTs are intended to be free to download and use. Please refer to the [LICENSE](LICENSE.md) file for the applicable permissions and conditions.
+These LUTs are intended to be free to download and use in personal, educational and commercial video productions.
+
+No payment or attribution is requested for their use.
+
+Some LUTs have been derived from colour transformations published by camera manufacturers. The applicable manufacturer redistribution permissions are being clarified.
+
+Please read [LICENSE.md](LICENSE.md) for further details about permitted use, distribution and third-party rights.
 
 ## Tutorials and further information
 
