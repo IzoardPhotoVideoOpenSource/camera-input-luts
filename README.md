@@ -12,9 +12,8 @@ LUTs are named according to the transformation they provide. Names are formed as
 
 {input_format}\_to\_{output_format}.cube
 
-Here, version refers to the version of the LUT, and not any version associated with the input format.
 
-For example, version 1 of the LUT for converting Oppo O-Log to DaVinci Wide Gamut/Intermediate is named
+For example, the LUT for converting Oppo O-Log to DaVinci Wide Gamut/Intermediate is named
 
 **O-Log_to_DWI.cube**
 
