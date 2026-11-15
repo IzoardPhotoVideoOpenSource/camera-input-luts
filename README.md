@@ -10,19 +10,19 @@ They're designed for use at the beginning of a colour grading workflow, allowing
 
 LUTs are named according to the transformation they provide. Names are formed as follows:
 
-{input_format}\_to\_{output_format}\_V{version}.cube
+{input_format}\_to\_{output_format}.cube
 
 Here, version refers to the version of the LUT, and not any version associated with the input format.
 
 For example, version 1 of the LUT for converting Oppo O-Log to DaVinci Wide Gamut/Intermediate is named
 
-**O-Log_to_DWI_V1.cube**
+**O-Log_to_DWI.cube**
 
 where 
 
 {input_format} is O-Log
 {output_format} is DWI, for DaVinci Wide Gamut/Intermediate
-{version} is 1
+
 
 ## Installing the LUT in DaVinci Resolve
 
